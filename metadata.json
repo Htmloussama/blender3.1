@@ -1,0 +1,6 @@
+{
+  "name": "Blender Asset Marketplace",
+  "description": "A cinematic, fast-loading marketplace for premium paid and free Blender 3D assets, featuring an interactive viewport reveal, sticky stacked featured cards, and an automated admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,196 @@
+{
+  "products": [
+    {
+      "id": "cyberpunk-kitbash",
+      "title": "Cyberpunk City Street (Kitbash)",
+      "description": "A comprehensive kit of 45 modular pieces designed to construct gritty, high-fidelity cyberpunk streetscapes. Includes modular neon signs, vending machines, debris, industrial pipes, structural walkways, fire escapes, and detailed building facades. Fully textured with high-resolution procedural materials and custom decals. Perfect for concept art, game environments, and cinematic sequences.",
+      "price": 29,
+      "category": "Environments",
+      "tags": ["Cyberpunk", "Kitbash", "Modular", "Sci-Fi", "City"],
+      "fileFormat": ".blend, .fbx, .obj",
+      "polyCount": "240k Polys (modular pieces)",
+      "license": "Commercial / Royalty Free",
+      "published": true,
+      "downloadsCount": 45,
+      "salesCount": 18,
+      "revenue": 522,
+      "isFeatured": true,
+      "placeholders": [
+        "[cyberpunk-street-render]",
+        "[cyberpunk-street-wireframe]",
+        "[cyberpunk-street-detail-1]",
+        "[cyberpunk-street-detail-2]"
+      ],
+      "createdAt": "2026-05-15T12:00:00Z"
+    },
+    {
+      "id": "scifi-mech",
+      "title": "Sci-Fi Mech Crawler (Rigged)",
+      "description": "An industrial, four-legged defense or mining mech crawler. Fully rigged with an advanced inverse kinematics (IK) leg setup, animated hatches, rotatable weapon/sensor turrets, and realistic hydraulic pistons. Includes detailed cockpit interior and clean substance-painted PBR materials. Optimized for subdivision surface and ready to animate.",
+      "price": 19,
+      "category": "Vehicles",
+      "tags": ["Mech", "Robot", "Rigged", "Sci-Fi", "Hard Surface"],
+      "fileFormat": ".blend",
+      "polyCount": "142k Polys (rigged)",
+      "license": "Royalty Free",
+      "published": true,
+      "downloadsCount": 32,
+      "salesCount": 14,
+      "revenue": 266,
+      "isFeatured": true,
+      "placeholders": [
+        "[mech-crawler-render]",
+        "[mech-crawler-wireframe]",
+        "[mech-crawler-detail]"
+      ],
+      "createdAt": "2026-06-01T14:30:00Z"
+    },
+    {
+      "id": "orc-warrior",
+      "title": "Stylized Orc Warrior Hero",
+      "description": "A high-quality stylized Orc Warrior character. Sculpted in high detail, retopologized with optimized edge flow for deformation, and hand-painted in Blender. Fully rigged with Auto-Rig Pro (includes face rigging) and loaded with basic animations (Idle, Walk, Run, Strike). Outfitted with highly-detailed armor and a two-handed combat battleaxe.",
+      "price": 12,
+      "category": "Characters",
+      "tags": ["Character", "Stylized", "Rigged", "Fantasy", "Orc"],
+      "fileFormat": ".blend, .fbx",
+      "polyCount": "32k Polys (fully equipped)",
+      "license": "CC-BY 4.0 (attribution required)",
+      "published": true,
+      "downloadsCount": 64,
+      "salesCount": 22,
+      "revenue": 264,
+      "isFeatured": true,
+      "placeholders": [
+        "[orc-warrior-render]",
+        "[orc-warrior-wireframe]",
+        "[orc-warrior-detail]"
+      ],
+      "createdAt": "2026-06-10T09:15:00Z"
+    },
+    {
+      "id": "studio-lighting",
+      "title": "Cinematic Studio Lighting Kit",
+      "description": "Professional 3-point and cinematic studio lighting rigs designed specifically for Blender Cycles and EEVEE. Includes 10 customizable lighting presets (Dramatic Portrait, Moody Sci-Fi, Product Clean, High-Key, Sunset Backlight, and more). Easy appendable collections with preset backdrop cards, camera rigs, and pre-calibrated exposure/color-grading settings.",
+      "price": 0,
+      "category": "Shaders/Materials",
+      "tags": ["Lighting", "Cycles", "EEVEE", "Presets", "Studio"],
+      "fileFormat": ".blend",
+      "polyCount": "N/A",
+      "license": "CC0 / Public Domain",
+      "published": true,
+      "downloadsCount": 185,
+      "salesCount": 0,
+      "revenue": 0,
+      "isFeatured": false,
+      "placeholders": [
+        "[lighting-kit-render]",
+        "[lighting-kit-wireframe]"
+      ],
+      "createdAt": "2026-06-18T16:45:00Z"
+    },
+    {
+      "id": "rust-shaders",
+      "title": "Procedural Rust & Metal Shaders",
+      "description": "A pack of 6 fully procedural rust and metal shaders for Blender Cycles. No image textures required — infinite resolution, fully customizable parameters via a clean node group interface (rust intensity, scale, roughness, oxidation hue, metal wear). Perfect for industrial assets, old vehicles, and apocalyptic scene designs.",
+      "price": 0,
+      "category": "Shaders/Materials",
+      "tags": ["Procedural", "Shaders", "Cycles", "Metal", "Rust"],
+      "fileFormat": ".blend",
+      "polyCount": "Procedural Nodes",
+      "license": "CC0 / Public Domain",
+      "published": true,
+      "downloadsCount": 210,
+      "salesCount": 0,
+      "revenue": 0,
+      "isFeatured": false,
+      "placeholders": [
+        "[rust-shader-render]",
+        "[rust-shader-wireframe]"
+      ],
+      "createdAt": "2026-06-25T11:20:00Z"
+    },
+    {
+      "id": "prop-pack",
+      "title": "Low-Poly Adventure Prop Pack",
+      "description": "A collection of 35 game-ready adventure-themed low-poly props. Includes treasure chests (open/closed variants), campfires, torches, weapons (swords, shields, bows), camping tents, backpacks, navigation compasses, food items, and environmental clutter. Includes a single optimized texture atlas to keep draw calls low in your game engine of choice.",
+      "price": 0,
+      "category": "Props",
+      "tags": ["Low-Poly", "Props", "Game-Ready", "Adventure", "Assets"],
+      "fileFormat": ".blend, .fbx",
+      "polyCount": "8.5k Polys total",
+      "license": "Royalty Free",
+      "published": true,
+      "downloadsCount": 115,
+      "salesCount": 0,
+      "revenue": 0,
+      "isFeatured": false,
+      "placeholders": [
+        "[prop-pack-render]",
+        "[prop-pack-wireframe]"
+      ],
+      "createdAt": "2026-07-01T08:00:00Z"
+    }
+  ],
+  "orders": [
+    {
+      "id": "order-1",
+      "email": "collector3d@example.com",
+      "productId": "cyberpunk-kitbash",
+      "productTitle": "Cyberpunk City Street (Kitbash)",
+      "pricePaid": 29,
+      "status": "completed",
+      "downloadToken": "token_cyber_82j19x",
+      "createdAt": "2026-06-15T14:22:11Z"
+    },
+    {
+      "id": "order-2",
+      "email": "rig-enthusiast@example.com",
+      "productId": "scifi-mech",
+      "productTitle": "Sci-Fi Mech Crawler (Rigged)",
+      "pricePaid": 19,
+      "status": "completed",
+      "downloadToken": "token_mech_48p20z",
+      "createdAt": "2026-06-18T09:12:33Z"
+    },
+    {
+      "id": "order-3",
+      "email": "fantasy-game@example.com",
+      "productId": "orc-warrior",
+      "productTitle": "Stylized Orc Warrior Hero",
+      "pricePaid": 8.4,
+      "discountCodeUsed": "SUMMER30",
+      "status": "completed",
+      "downloadToken": "token_orc_77y31a",
+      "createdAt": "2026-06-28T18:05:40Z"
+    },
+    {
+      "id": "order-4",
+      "email": "architect.viz@example.com",
+      "productId": "cyberpunk-kitbash",
+      "productTitle": "Cyberpunk City Street (Kitbash)",
+      "pricePaid": 29,
+      "status": "completed",
+      "downloadToken": "token_cyber_34f81w",
+      "createdAt": "2026-07-04T11:40:02Z"
+    }
+  ],
+  "discountCodes": [
+    {
+      "id": "discount-1",
+      "code": "SUMMER30",
+      "discountType": "percentage",
+      "discountValue": 30,
+      "productId": "all",
+      "active": true
+    },
+    {
+      "id": "discount-2",
+      "code": "ORCSLAYER",
+      "discountType": "fixed",
+      "discountValue": 5,
+      "productId": "orc-warrior",
+      "active": true
+    }
+  ],
+  "adminPasskeyHash": "$2b$10$tZ2xTfR35L67YgqXvB5uO.9M6v7p7a8f9d0c1b2a3d4e5f6g7h8i"
+}
